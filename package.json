@@ -1,8 +1,9 @@
 {
+  "homepage": "https://ditradit.github.io/bojongrobot",
   "name": "bojongrobot",
   "version": "0.1.0",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-three/drei": "^9.114.0",
     "@react-three/fiber": "^8.8.10",
