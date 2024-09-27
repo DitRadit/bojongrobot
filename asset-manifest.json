@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/DitRadit/bojongrobot/static/css/main.f7cbe935.css",
-    "main.js": "/DitRadit/bojongrobot/static/js/main.f6a46492.js",
-    "static/js/453.7cfcc4f6.chunk.js": "/DitRadit/bojongrobot/static/js/453.7cfcc4f6.chunk.js",
-    "static/media/baymax.png": "/DitRadit/bojongrobot/static/media/baymax.261b63f0ce2b4ba542e4.png",
-    "static/media/png": "/DitRadit/bojongrobot/static/media/51fb457e483d73eeacc3b91.1be7145c367a0b514cd1.png",
-    "static/media/vr1.png": "/DitRadit/bojongrobot/static/media/vr1.a07915b910d176ee56f7.png",
-    "static/media/6f9d96c1-fbc9-4589-a39d-2e45aa7cc7df-removebg-preview.png": "/DitRadit/bojongrobot/static/media/6f9d96c1-fbc9-4589-a39d-2e45aa7cc7df-removebg-preview.c102854f54cff483d026.png",
-    "static/media/bmomain.png": "/DitRadit/bojongrobot/static/media/bmomain.066bb510bcbed35bc3c1.png",
-    "static/media/vrmodel.png": "/DitRadit/bojongrobot/static/media/vrmodel.5d492d8bcf08884acb42.png",
-    "static/media/swwwwwwwwwww.png": "/DitRadit/bojongrobot/static/media/swwwwwwwwwww.4583987644df3ed1e7c1.png",
-    "static/media/aakakkaa.png": "/DitRadit/bojongrobot/static/media/aakakkaa.7394e817b3a1bd64eea8.png",
-    "static/media/baymaxmodel.png": "/DitRadit/bojongrobot/static/media/baymaxmodel.83a5bb41fc4a40692e53.png",
-    "static/media/baymax1.png": "/DitRadit/bojongrobot/static/media/baymax1.a765882b1d0d31d503be.png",
-    "static/media/bmo model.png": "/DitRadit/bojongrobot/static/media/bmo model.b0f76c7b620f9c717ff3.png",
-    "static/media/bmo2.png": "/DitRadit/bojongrobot/static/media/bmo2.ca8441b504680b39b256.png",
-    "static/media/WhatsApp_Image_2024-09-27_at_15.07.10-removebg-preview.png": "/DitRadit/bojongrobot/static/media/WhatsApp_Image_2024-09-27_at_15.07.10-removebg-preview.7ef6029338c231632ae7.png",
-    "index.html": "/DitRadit/bojongrobot/index.html",
-    "main.f7cbe935.css.map": "/DitRadit/bojongrobot/static/css/main.f7cbe935.css.map",
-    "main.f6a46492.js.map": "/DitRadit/bojongrobot/static/js/main.f6a46492.js.map",
-    "453.7cfcc4f6.chunk.js.map": "/DitRadit/bojongrobot/static/js/453.7cfcc4f6.chunk.js.map"
+    "main.css": "/bojongrobot/static/css/main.f7cbe935.css",
+    "main.js": "/bojongrobot/static/js/main.9d71f96d.js",
+    "static/js/453.7cfcc4f6.chunk.js": "/bojongrobot/static/js/453.7cfcc4f6.chunk.js",
+    "static/media/baymax.png": "/bojongrobot/static/media/baymax.261b63f0ce2b4ba542e4.png",
+    "static/media/png": "/bojongrobot/static/media/51fb457e483d73eeacc3b91.1be7145c367a0b514cd1.png",
+    "static/media/vr1.png": "/bojongrobot/static/media/vr1.a07915b910d176ee56f7.png",
+    "static/media/6f9d96c1-fbc9-4589-a39d-2e45aa7cc7df-removebg-preview.png": "/bojongrobot/static/media/6f9d96c1-fbc9-4589-a39d-2e45aa7cc7df-removebg-preview.c102854f54cff483d026.png",
+    "static/media/bmomain.png": "/bojongrobot/static/media/bmomain.066bb510bcbed35bc3c1.png",
+    "static/media/vrmodel.png": "/bojongrobot/static/media/vrmodel.5d492d8bcf08884acb42.png",
+    "static/media/swwwwwwwwwww.png": "/bojongrobot/static/media/swwwwwwwwwww.4583987644df3ed1e7c1.png",
+    "static/media/aakakkaa.png": "/bojongrobot/static/media/aakakkaa.7394e817b3a1bd64eea8.png",
+    "static/media/baymaxmodel.png": "/bojongrobot/static/media/baymaxmodel.83a5bb41fc4a40692e53.png",
+    "static/media/baymax1.png": "/bojongrobot/static/media/baymax1.a765882b1d0d31d503be.png",
+    "static/media/bmo model.png": "/bojongrobot/static/media/bmo model.b0f76c7b620f9c717ff3.png",
+    "static/media/bmo2.png": "/bojongrobot/static/media/bmo2.ca8441b504680b39b256.png",
+    "static/media/WhatsApp_Image_2024-09-27_at_15.07.10-removebg-preview.png": "/bojongrobot/static/media/WhatsApp_Image_2024-09-27_at_15.07.10-removebg-preview.7ef6029338c231632ae7.png",
+    "index.html": "/bojongrobot/index.html",
+    "main.f7cbe935.css.map": "/bojongrobot/static/css/main.f7cbe935.css.map",
+    "main.9d71f96d.js.map": "/bojongrobot/static/js/main.9d71f96d.js.map",
+    "453.7cfcc4f6.chunk.js.map": "/bojongrobot/static/js/453.7cfcc4f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7cbe935.css",
-    "static/js/main.f6a46492.js"
+    "static/js/main.9d71f96d.js"
   ]
 }
